@@ -36,6 +36,7 @@
     "karma-coverage-istanbul-reporter": "^3.0.3",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "karma-puppeteer-launcher": "^1.0.4",
     "typescript": "~5.1.3"
   }
 }
